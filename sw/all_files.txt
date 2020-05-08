@@ -1,3 +1,3 @@
-asb10555.epub	Ajali mbaya
-asb20069.epub	Akili ni mali
-asb8074.epub	Adhabu
+asb10555	Ajali mbaya
+asb20069	Akili ni mali
+asb8074	Adhabu
