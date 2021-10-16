@@ -1,4 +1,4 @@
-asb9956	Les Bananes De Grand-Mère
-asb9958	Que Va Dire La Sœur De Vusi?
-asb13156	J’aime Lire
-asb8074	Compter Les Animaux
+asb9956	0028fc10bf4782b7fc76a6ab990a173c	Les Bananes De Grand-Mère
+asb9958	ae9cd719ab2b5b45b0a3b8d8a4bae20a	Que Va Dire La Sœur De Vusi?
+asb13156	7b342ab791e47e2efa8f990a6eb83fe4	J’aime Lire
+asb35330	4fc225785e1f2b9632448f6d3837bfaf	Compter Les Animaux
